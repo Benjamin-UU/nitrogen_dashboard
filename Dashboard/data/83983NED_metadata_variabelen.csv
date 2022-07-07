@@ -1,0 +1,29 @@
+﻿KolomNaam;NatuurlijkeTerm_NE;NatuurlijkeTerm_ENG
+ID;ID;ID
+Bedrijfstype;Bedrijfstype;Business type
+RegioS;Regio;Region
+Jaar;Jaar;Year
+TotaalMestproductie_1;Totaal Mestproductie;Total Manure production
+DunneMestInDeStal_2;Dunne Mest in Stal;Thin Manure in Stable
+DunneMestInDeWei_3;Dunne Mest in Wei;Thin Manure in pasture
+VasteMestInDeStal_4;Vaste Mest in Stal;Solid Manure in Stable
+TotaalStikstofuitscheiding_5;Totaal Stikstofuitscheiding;Total Nitrogen Emission
+TotaalStikstofverliezenN_6;Totaal Stikstofverliezen;Total Nitrogen Losses
+AmmoniakemissieN_7;Ammoniakemissie;Ammonia Emission
+OverigeGasvormigeStikstofverliezenN_8;Overige Gasvormige Stikstofverliezen;Other Gassy Nitrogen Losses
+SpuiwaterLuchtwassersN_9;Spuiwater Luchtwassers;Spray water Air washers
+StikstofInOpgeslagenMestEnWeidemest_10;Stikstof In Opgeslagen- en Weidemest;Nitrogen in Stored- and Pasture Manure
+TotaalFosfaatuitscheiding_11;Totaal Fosfaatuitscheiding;Total Phosphate Emission
+PlaatsingsruimteStikstofN_12;Plaatsingsruimte Stikstof;Nitrogen Manaagement Plan
+PlaatsingsruimteFosfaatP205_13;Plaatsingsruimte Fosfaat (P205);Phosphate (P205) Management Plan
+BedrijvenZonderOverproductie_14;Bedrijven Zonder Overproductie;Businesses without Overproduction
+RestPlaatsingsruimteStikstofN_15;Rest Plaatsingsruimte Stikstof;Residual Nitrogen Management Plan
+RestPlaatsingsruimteFosfaatP205_16;Rest Plaatsingsruimte Fosfaat (P205);Residual Phosphate Management Plan
+BedrijvenMetOverproductie_17;Bedrijven Met Overproductie;Businesses With Overproduction
+StikstofoverschotN_18;Stikstofoverschot;Nitrogen Surplus
+FosfaatoverschotP205_19;Fosfaatoverschot (P205);Phosphate (P205) Surplus
+SaldoPlaatsingsruimteStikstofN_20;Saldo Plaatsingsruimte Stikstof per Ha;Balance Nitrogen Management Plan
+SaldoPlaatsingsruimteStikstofPerHa_21;Saldo Plaatsingsruimte Stikstof;Balance Nitrogen Management Plan per Ha
+SaldoPlaatsingsruimteFosfaatP205_22;Saldo Plaatsingsruimte Fosfaat per Ha;Balance Phosphate (P205) Management Plan
+SaldoPlaatsingsruimteFosfaatPerHa_23;Saldo Plaatsingsruimte Fosfaat;Balance Phosphate (P205) Management Plan per Ha
+PercentageStikstofverliezen;Percentage Stikstofverliezen;Percentage Nitrogen Losses

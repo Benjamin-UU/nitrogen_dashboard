@@ -140,7 +140,7 @@ def update_figure(selected_country):
                                    hoverinfo= "skip")
                         ])
 
-    fig.update_yaxes(title_text='Living planet Index',
+    fig.update_yaxes(title_text='Red List Index',
                      showline=True, linewidth=2, 
                      linecolor='rgba(68, 68, 68, 0.3)', 
                      gridcolor= 'rgba(68, 68, 68, 0.1)')
@@ -207,7 +207,7 @@ def lpi_figure():
                                    hoverinfo= "skip")
                         ])
         
-    fig.update_yaxes(title_text='Living planet Index',
+    fig.update_yaxes(title_text='Living Planet Index',
                      showline=True, linewidth=2, 
                      linecolor='rgba(68, 68, 68, 0.3)', 
                      gridcolor= 'rgba(68, 68, 68, 0.1)')

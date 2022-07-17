@@ -1,0 +1,14 @@
+T001061;Totaal alle bedrijfstypen
+A009501;Totaal graasdierbedrijven
+A009502;Melkveebedrijven
+A009503;Vleeskalverenbedrijven
+A009504;Overige rundveebedrijven
+B000078;Geiten- en andere graasdierbedrijven
+A009510;Totaal hokdierbedrijven
+B000079;Varkensbedrijven
+B000080;Pluimveebedrijven
+A009517;Overige hokdierbedrijven
+B000081;Totaal overige landbouwbedrijven
+A009520;Totaal veeteeltcombinaties
+A009523;Gewas/veecombinaties
+B000082;Akkerbouw, tuinbouw en gewascombinaties

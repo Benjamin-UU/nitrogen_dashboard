@@ -1,0 +1,8 @@
+dash
+pandas
+numpy
+statsmodels
+sklearn
+plotly
+psycopg2-binary
+dash_bootstrap_components

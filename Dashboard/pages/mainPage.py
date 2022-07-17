@@ -31,7 +31,7 @@ def pageheader():
                                 no longer be allowed to be used as argument for permitting activities that cause additional nitrogen emission. This resulted 
                                 in the halting of countless building projects and other planning activities, something that would quickly be referred to as 
                                 the "nitrogen crisis". This nitrogen crisis forced the hand of the Dutch government, and ways to reduce nitrogen emission 
-                                nation-wide were essential to prevent a long term freeze on building- and public space planning activities.
+                                nation-wide were essential to prevent a long-term freeze on building- and public space planning activities.
                                   
                                 **This dashboard is meant to provide clear and unbiased information to the general public on the Nitrogen crisis. This page 
                                 will provide general information on the Nitrogen crisis, the effects of nitrogen on biodiversity, and more. Use the menu to
